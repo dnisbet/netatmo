@@ -4,6 +4,6 @@ bash scripts for the netatmo api
 
 put your creds in a file called netatmo-creds.sh
 
-#!/bin/bash
+`#!/bin/bash
 clientsecret=yoursecrethere
-clientid=yourclientidhere
+clientid=yourclientidhere`
